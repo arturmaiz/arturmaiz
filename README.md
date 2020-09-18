@@ -1,8 +1,6 @@
 ![banner](https://i.ibb.co/zGPsdYJ/rsz-img-bg-1.jpg)    
 
-### Hi I'm Artur Maizelev 😎, Check My Cool Repos 👇
-
-Here are some ideas to get you started:
+### Hi I'm Artur Maizelev 😎
 
 - 🔭 I’m currently working on ... CakeMe - React App
 - 🌱 I’m currently learning ... React & Node
@@ -11,3 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Portfolio Website](https://arturmaiz.com)
 - ⚡ Fun fact: ... I'm a 100% perecent Ukrainian that live in Israel 
+
+### Check My Cool Repos 👇
