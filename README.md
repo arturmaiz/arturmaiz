@@ -1,4 +1,6 @@
-### So Check My Cool Stuff 😎
+![banner](https://arturmaiz.com/images/img_bg_1.jpg)
+
+### So Check My Cool Repos 😎
 
 Here are some ideas to get you started:
 
@@ -9,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Portfolio Website](https://arturmaiz.com)
 - ⚡ Fun fact: ... I'm a 100% perecent Ukrainian that live in Israel 
--->
