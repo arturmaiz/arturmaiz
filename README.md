@@ -1,4 +1,4 @@
-![banner](https://arturmaiz.com/images/img_bg_1.jpg)
+![banner](https://i.ibb.co/zGPsdYJ/rsz-img-bg-1.jpg)
 
 ### So Check My Cool Repos 😎
 
