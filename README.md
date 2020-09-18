@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/zGPsdYJ/rsz-img-bg-1.jpg)    
+![banner](https://i.ibb.co/5rjw46q/Corporate-Website-Facebook-Cover.png)    
 
 ### Hi I'm Artur Maizelev 😎
 
