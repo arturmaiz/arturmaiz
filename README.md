@@ -1,6 +1,6 @@
-![banner](https://i.ibb.co/zGPsdYJ/rsz-img-bg-1.jpg)
+![banner](https://i.ibb.co/zGPsdYJ/rsz-img-bg-1.jpg)    
 
-### So Check My Cool Repos 😎
+### Hi I'm Artur Maizelev 😎, Check My Cool Repos 👇
 
 Here are some ideas to get you started:
 
