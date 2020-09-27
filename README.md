@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with ...  How To Make Money Without Working
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Portfolio Website](https://arturmaiz.com)
-- ⚡ Fun fact: ... I'm a 100% perecent Ukrainian that live in Israel 
 
 ### Check My Cool Repos 👇
