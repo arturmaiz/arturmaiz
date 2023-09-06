@@ -1,5 +1,3 @@
-![banner](https://i.ibb.co/5rjw46q/Corporate-Website-Facebook-Cover.png)    
-
 ### Hi I'm Artur Maizelev 😎
 
 - 🔭 I’m currently working on ... CakeMe - React App
