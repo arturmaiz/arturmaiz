@@ -7,6 +7,5 @@
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ...  How To Make Money Without Working
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... [Portfolio Website](https://arturmaiz.com)
 
 ### Check My Cool Repos 👇
